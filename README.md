@@ -15,7 +15,7 @@ along with this userbot.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NeuroticCoders/tgvc-userbot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChankitSaini/tgvc-userbot/tree/main)
 
 - Generate Pyrogram session string by running generate-pyrogram-session-string.py by yourself or through Replit
 - Enable the worker after deploy the project to Heroku.

@@ -137,6 +137,9 @@ credits in case you want to try Vultr.
 
 Or [Give100get25 - Vultr](https://www.vultr.com/?ref=8559837-6G)
 
+# Disclaimer
+This repo is clone of [callsmusic](https://github.com/callsmusic)'s [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) made for heroku deployment after author's prior consent. All credits goes to rightful authors.
+
 # License
 
 AGPL-3.0-or-later
